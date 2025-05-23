@@ -25,7 +25,10 @@ Install dependencies with:
 ```sh
 pip install requirements.txt
 ```
-
+Test Models with:
+```sh
+streamlit run app.py
+```
 ## Usage
 
 ### Prepare Data
