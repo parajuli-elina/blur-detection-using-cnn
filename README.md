@@ -5,7 +5,7 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 ## Project Structure
 
 - **label_blur_detection.ipynb**: Main Jupyter notebook containing all code for data processing, model building, training, evaluation, and visualization.
-- **label_detection/Images/**: Directory containing the input images.
+- **dataset/Images/**: Directory containing the input images.
 - **dataset/metadata.csv**: CSV file mapping image filenames to their labels (0 for blur, 1 for focus).
 - **cnn_model/**: Directory where trained model checkpoints are saved.
 
