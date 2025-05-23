@@ -23,7 +23,7 @@ This project implements a Convolutional Neural Network (CNN) to classify images 
 Install dependencies with:
 
 ```sh
-pip install tensorflow numpy pandas opencv-python matplotlib scikit-learn
+pip install requirements.txt
 ```
 
 ## Usage
