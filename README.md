@@ -30,7 +30,7 @@ pip install tensorflow numpy pandas opencv-python matplotlib scikit-learn
 
 ### Prepare Data
 
-Place your images in the `label_detection/Images/` directory and ensure `metadata.csv` contains the correct filename-label mapping.
+Place your images in the `dataset/Images/` directory and ensure `metadata.csv` contains the correct filename-label mapping.
 
 ### Run the Notebook
 
